@@ -1,0 +1,57 @@
+[
+  {
+    "id": 0,
+    "productName": "Fresh Avocados",
+    "image": "🥑",
+    "from": "Mexico",
+    "nutrients": "Vitamin B, Vitamin K",
+    "quantity": "4 🥑",
+    "price": "6.50",
+    "organic": true,
+    "description": "Lorem ipsum, dolor sit amet consectetur adipisicing elit. Vitae necessitatibus reprehenderit veritatis perferendis nesciunt dolor ad iusto illo illum incidunt minima laboriosam sint, quisquam repudiandae corporis dolores voluptates, expedita enim autem consectetur error nihil obcaecati suscipit quia. Suscipit nostrum soluta fugit, aperiam assumenda fuga, deserunt similique molestias, beatae provident ad?"
+  },
+  {
+    "id": 1,
+    "productName": "Potatoes",
+    "image": "🥔",
+    "from": "Idaho",
+    "nutrients": "Thiamine, Folate",
+    "quantity": "250g",
+    "price": "5.00",
+    "organic": false,
+    "description": "Lorem ipsum, dolor sit amet consectetur adipisicing elit. Vitae necessitatibus reprehenderit veritatis perferendis nesciunt dolor ad iusto illo illum incidunt minima laboriosam sint, quisquam repudiandae corporis dolores voluptates, expedita enim autem consectetur error nihil obcaecati suscipit quia. Suscipit nostrum soluta fugit, aperiam assumenda fuga, deserunt similique molestias, beatae provident ad?"
+  },
+  {
+    "id": 2,
+    "productName": "Apollo Broccoli",
+    "image": "🥦",
+    "from": "California, USA",
+    "nutrients": "Vitamin C, Vitamin K",
+    "quantity": "3 🥦",
+    "price": "5.50",
+    "organic": true,
+    "description": "Lorem ipsum, dolor sit amet consectetur adipisicing elit. Vitae necessitatibus reprehenderit veritatis perferendis nesciunt dolor ad iusto illo illum incidunt minima laboriosam sint, quisquam repudiandae corporis dolores voluptates, expedita enim autem consectetur error nihil obcaecati suscipit quia. Suscipit nostrum soluta fugit, aperiam assumenda fuga, deserunt similique molestias, beatae provident ad?"
+  },
+  {
+    "id": 3,
+    "productName": "Baby Carrots",
+    "image": "🥕",
+    "from": "California, USA",
+    "nutrients": "Vitamin A, Vitamin K",
+    "quantity": "20 🥕",
+    "price": "3.00",
+    "organic": true,
+    "description": "Lorem ipsum, dolor sit amet consectetur adipisicing elit. Vitae necessitatibus reprehenderit veritatis perferendis nesciunt dolor ad iusto illo illum incidunt minima laboriosam sint, quisquam repudiandae corporis dolores voluptates, expedita enim autem consectetur error nihil obcaecati suscipit quia. Suscipit nostrum soluta fugit, aperiam assumenda fuga, deserunt similique molestias, beatae provident ad?"
+  },
+  {
+    "id": 4,
+    "productName": "Sweet Corncobs",
+    "image": "🌽",
+    "from": "Minnesota, USA",
+    "nutrients": "Vitamin B6, Potassium",
+    "quantity": "2 🌽",
+    "price": "2.00",
+    "organic": false,
+    "description": "Lorem ipsum, dolor sit amet consectetur adipisicing elit. Vitae necessitatibus reprehenderit veritatis perferendis nesciunt dolor ad iusto illo illum incidunt minima laboriosam sint, quisquam repudiandae corporis dolores voluptates, expedita enim autem consectetur error nihil obcaecati suscipit quia. Suscipit nostrum soluta fugit, aperiam assumenda fuga, deserunt similique molestias, beatae provident ad?"
+  }
+]
